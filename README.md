@@ -21,7 +21,7 @@ And the output is total number of demerit points.
 If demerit points are more than 12, it should print 'License Suspendend'
 
 ## Net salary calulator
-The input should be the basic salary and benefits givn to an employee
+The input should be the basic salary and benefits given to an employee
 Program will calculate PAYE Tax,NHIF deductions, NSSF deductions and allow you to see the net salary
 
 

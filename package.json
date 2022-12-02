@@ -1,0 +1,23 @@
+{
+  "name": "week-1-code-challenge",
+  "version": "1.0.0",
+  "description": "This program aims to allow users to solve their math problems at ease with just an input from their end. Students, employees and also drivers can use to get the output of the results they need. The student grade generator provides a grade for the marks they input.The speed detector calculates the total number of the demerit point according to the speed of the driver. Finaly, The salary calculator is aimed at calculating the net salary as well as deductions",
+  "main": "grade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minnehkamau/week-1-code-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minnehkamau/week-1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/minnehkamau/week-1-code-challenge#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {}
+}
