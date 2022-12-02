@@ -1,4 +1,5 @@
-# code challenge code
+# Basic home Calculator
+    This program aims to allow users to solve their math problems at ease with just an input from their end. Students, employees and also drivers can use to get the output of the results they need. The student grade generator provides a grade for the marks they input.The speed detector calculates the total number of the demerit point according to the speed of the driver. Finaly, The salary calculator is aimed at calculating the net salary as well as deductions
 
 
 ## studentgrade generator
