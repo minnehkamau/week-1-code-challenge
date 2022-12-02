@@ -32,12 +32,15 @@ else if( grosSalary>=15000 && grosSalary<20000){
     nhif=600;
 }
 else if(grosSalary>=20000 && grosSalary<25000){
-        nhif=700
+        nhif=700;
     }
-if(deductions= (paye+nhif+nssf)){
+else if(grosSalary>=25000 && grosSalary <30000){
+    nhif=850;
+}
+deductions= (paye+nhif+nssf)
 
 const netSalary=(grosSalary-deductions)
         console.log(netSalary);
 }
-}
+
 SalaryPayable()
